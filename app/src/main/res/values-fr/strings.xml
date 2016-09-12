@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Help</string>
+    <string name="error">Erreur</string>
+    <string name="permissions_needed">Autorisations nécessaires! </string>
+    <string name="permissions_needed_check">Vérifiez les autorisations </string>
+    <string name="permissions_needed_close">Fermer App </string>
+    <string name="permissions_needed_descr">Il est nécessaire d\'accepter toutes les autorisations afin d\'exécuter l\'application correctement.</string>
+    <string name="permissions_needed_open">Ouvrez Paramètres </string>
+    <string name="sms_sent">SMS envoyé! </string>
+    <string name="videocalling_skype">Appel vidéo via Skype ... </string>
+    <string name="install_skype">Installez l\'application Skype pour appel vidéo. </string>
+    <string name="seconds">secondes</string>
+    <string name="seconds_remaining">secondes restantes </string>
+    <string name="seconds_remaining_contact">secondes restantes à contacter d\'urgence </string>
+    <string name="to_cancel_touch_button">Pour annuler toucher le bouton annuler </string>
+    <string name="contacting_emergency">urgence Contacter </string>
+    <string name="help">Aider</string>
+    <string name="contact">Contact</string>
+    <string name="caregiver">Soignant</string>
+</resources>

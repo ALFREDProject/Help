@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Help</string>
+    <string name="error">Fout</string>
+    <string name="permissions_needed">Machtigingen nodig! </string>
+    <string name="permissions_needed_check">Controle Permissions </string>
+    <string name="permissions_needed_close">Sluiten App </string>
+    <string name="permissions_needed_descr">Het is nodig om alle permissies om de toepassing correcte werking accepteren.</string>
+    <string name="permissions_needed_open">Open instellingen </string>
+    <string name="sms_sent">SMS Verzonden! </string>
+    <string name="videocalling_skype">Videotelefonie via Skype ... </string>
+    <string name="install_skype">Installeer de Skype-applicatie om video-oproep. </string>
+    <string name="to_cancel_touch_button">Om druk op de knop annuleren annuleren </string>
+    <string name="seconds_remaining_contact">seconden resterende hulpdiensten </string>
+    <string name="seconds_remaining">seconden resterende </string>
+    <string name="seconds">seconden</string>
+    <string name="contacting_emergency">Contact opnemen met hulpdiensten </string>
+    <string name="help">Helpen</string>
+    <string name="contact">Contact</string>
+    <string name="caregiver">Verzorger</string>
+</resources>
