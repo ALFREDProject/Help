@@ -7,7 +7,7 @@
 Creating an application integrated with the Personal Assistant, enables the application to have a controlled dialogue to interact faster and more human friendly than ever.
 This is a system that requires the Personal Assistant, which is the controller for all the components and CADE, which handles the voice logic to enable the developers an easy access to the voice action events, which can be human friendly!
 
-(this Application description)
+When you really need help, this application can contact your caregivers by calling them fast and simple. If the user falls to the ground, the help application will know that and it will trigger a countdown alarm of 30 seconds, that if it ends, it will call for help automatically.
 
 Creating an application in Android is simple, so it is to integrate the following components.
 First it is required to install the Personal Assistant application to enable the service that communicates the events.
